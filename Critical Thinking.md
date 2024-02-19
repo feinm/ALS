@@ -23,3 +23,17 @@
   - *Get creative* with your thinking
   - Having curiosity to explore different viewpoints and topics are crucial
 - ### Step 2:  Recognize & Avoid Critical Thinking Hinderances
+  - Basic Human Limitations - We aren't perfect and within a specific issue, sometimes getting an adequate understanding of the issue is all we can do rather than think we will be the "know all" of everything.
+  - Use of Language - Understanding when words are used to communicate thought and behavior, rather than ideas or feelings.  Basically, what and how we say things matter!
+  - Faulty Logic or Perception - Numbers and logic can be used to manipulate others.
+  - Psychological and Socialogical Pitfalls - Just like with logic, the influences from others can be twisted to gain power and influence.
+- ### Step 3:  Identify & Characterize Arguments
+  - **Argument** - Presentation of a reason to support a conclusion (Argument = Reason + Conclusion)
+    - Reasons = *premises, evidence, data, propositions, proofs, and verification*
+    - Conclusions = *claims, actions, verdicts, propositions, and opinions*
+    - You must have at least one, if not more *Reasons* and *Conclusions* to each *Argument*
+    - **Deductive Arguments** - When *B* is inferred from *A*
+    - **Inductive Arguments** - Based on *reasonable grounds* for conclusions; not *black and white*
+- ### Step 4:  Evaluate Information Sources
+  - 
+- ### Step 5:  Evaluate Arguments
