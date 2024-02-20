@@ -53,55 +53,8 @@
 | ----------- | ----------- | ----------- | ----------- |
 | Confirmation Bias & Selective Thinking | The process whereby one tends to notice and look for what confirms one's beliefs, and to ignore, not look for, or undervalue the relevance of what contradicts one's beliefs. | If one believes that more murders occur during a full moon, then one will tend to take notice of murders that occur during a full moon and tend not to take notice of murders that occur at other times. | Obtain and objectively evaluate all relevant information and sides of an issue before passing judgment. |
 | False Memories & Confabulation | Being unaware that our memories are often "manufactured" to fill in the gaps in our recollection, or that some memories of facts, over time, can be unconsciously replaced with fantasy. | Police officers should not show a photo of a possible assailant to a witness prior to a police lineup, or the actual memory of the witness may be unconsciously replaced. | Put more reliance on proven facts than memory recollection or testimonies from others. | Know your own memory limitations. |
-
- 
-
-Ignorance
-
-The lack of essential background knowledge or information on a subject prior to making a judgment.
-
-One may be convinced a "yogi" has the power to levitate objects, but does not see the thin wire attached to them.
-
-Perform appropriate research on multiple sides of issues to obtain all pertinent evidence, before reaching conclusions.
-
- 
-
-Perception Limitations
-
-Being unaware of our own perception limitations that can lead to misconceptions about reality.
-
-Looking up at the stars at night and perceiving they are as close as the moon and planets.
-
-Recognize that "seeing is not always believing" because of our sensory limitations. Know when & how to verify your observations with other sources.
-
- 
-
-Personal Biases & Prejudices
-
-We each have personal biases and prejudices, resulting from our own unique life experiences and worldview, which make it difficult to remain objective and think critically.
-
-Some people are biased against claims made by scientists because their worldview appears too cold and impersonal.
-
-Resist your own biases by focusing on the facts, their sources, and the reasoning in support of arguments.
-
-Physical & Emotional Hindrances
-
-Stress, fatigue, drugs, and related hindrances can severely affect our ability to think clearly and critically.
-
-Air traffic controllers often have difficulty making good judgments after long hours on duty
-
-Restrain from making critical decisions when extremely exhausted or stressed.
-
- 
-
- 
-
-Testimonial Evidence
-
-Relying on the testimonies and vivid anecdotes of others to substantiate one's own beliefs, even though testimonies are inherently subjective, inaccurate, unreliable, biased, and occasionally fraudulent.
-
-Dramatic stories of Bigfoot sightings do not prove the existence of Bigfoot.
-
-Resist making judgments based on testimonies alone.
-
-Extraordinary claims generally require extraordinary evidence.
+| Ignorance | The lack of essential background knowledge or information on a subject prior to making a judgment. | One may be convinced a "yogi" has the power to levitate objects, but does not see the thin wire attached to them. | Perform appropriate research on multiple sides of issues to obtain all pertinent evidence, before reaching conclusions. |
+| Perception Limitations | Being unaware of our own perception limitations that can lead to misconceptions about reality. | Looking up at the stars at night and perceiving they are as close as the moon and planets. | Recognize that "seeing is not always believing" because of our sensory limitations. Know when & how to verify your observations with other sources. |
+| Personal Biases & Prejudices | We each have personal biases and prejudices, resulting from our own unique life experiences and worldview, which make it difficult to remain objective and think critically. | Some people are biased against claims made by scientists because their worldview appears too cold and impersonal. | Resist your own biases by focusing on the facts, their sources, and the reasoning in support of arguments. |
+| Physical & Emotional Hindrances | Stress, fatigue, drugs, and related hindrances can severely affect our ability to think clearly and critically. | Air traffic controllers often have difficulty making good judgments after long hours on duty | Restrain from making critical decisions when extremely exhausted or stressed. |
+| Testimonial Evidence | Relying on the testimonies and vivid anecdotes of others to substantiate one's own beliefs, even though testimonies are inherently subjective, inaccurate, unreliable, biased, and occasionally fraudulent. | Dramatic stories of Bigfoot sightings do not prove the existence of Bigfoot. | Resist making judgments based on testimonies alone. | Extraordinary claims generally require extraordinary evidence. |
